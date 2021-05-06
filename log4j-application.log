@@ -1,0 +1,147 @@
+2021-05-02 10:52:46 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 10:53:14 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 10:55:36 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 10:56:17 INFO  ConnectionFactory:92 - Reimbursements Retrieved
+2021-05-02 11:13:30 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 11:38:24 INFO  ConnectionFactory:92 - Reimbursements Retrieved
+2021-05-02 11:39:16 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 11:41:13 INFO  ConnectionFactory:92 - Reimbursements Retrieved
+2021-05-02 12:01:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 12:01:12 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 12:01:12 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-02 12:02:09 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-02 12:02:09 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-02 12:02:09 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-02 12:02:09 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 12:02:12 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 12:02:47 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 12:02:47 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 12:04:44 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-02 12:04:44 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-02 12:04:44 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-02 12:04:44 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 12:04:45 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 12:05:08 INFO  ConnectionFactory:33 - User logged in: Sandhu
+2021-05-02 12:05:20 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 12:10:32 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 12:10:48 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 12:10:59 INFO  ConnectionFactory:34 - Request added by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 12:10:59 INFO  ConnectionFactory:163 - Added Reimbiursement Request
+2021-05-02 12:11:02 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 12:11:02 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-02 12:11:12 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 12:11:26 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-02 12:11:26 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-02 12:11:26 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-02 12:11:26 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 12:11:30 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 12:11:34 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 12:11:37 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 12:11:41 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 12:11:50 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 12:11:50 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 12:11:55 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 12:11:55 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 12:11:57 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 12:12:03 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 12:12:04 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 12:12:04 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-02 12:12:15 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 15:22:42 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 15:23:17 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 15:23:30 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 15:49:50 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 15:50:06 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 16:05:41 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 16:05:46 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 16:05:50 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 16:05:50 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-02 16:05:53 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 16:12:41 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 16:12:54 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 16:13:01 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 16:13:07 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 16:13:09 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 23:43:59 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 23:44:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 23:44:37 INFO  ConnectionFactory:34 - Request added by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 23:44:38 INFO  ConnectionFactory:163 - Added Reimbiursement Request
+2021-05-02 23:44:42 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-02 23:44:42 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-02 23:45:07 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 23:45:15 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-02 23:45:15 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-02 23:45:15 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-02 23:45:15 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 23:45:19 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-02 23:45:19 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-02 23:45:19 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-02 23:45:31 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 23:45:36 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 23:45:43 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 23:45:43 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 23:45:46 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 23:45:46 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 23:45:50 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 23:45:50 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 23:45:51 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-02 23:45:51 INFO  ConnectionFactory:134 - Updated Status
+2021-05-02 23:45:56 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-02 23:46:00 INFO  ConnectionFactory:28 - User has logged out
+2021-05-02 23:47:12 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 23:47:12 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-02 23:47:12 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 23:47:12 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-02 23:47:12 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 09:52:03 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:09:34 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 10:09:36 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:09:50 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:14:48 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-03 10:14:48 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-03 10:14:48 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-03 10:14:48 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-03 10:15:33 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:20:04 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 10:20:07 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:20:10 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 10:59:27 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 10:59:43 INFO  ConnectionFactory:34 - Request added by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-03 10:59:43 INFO  ConnectionFactory:163 - Added Reimbiursement Request
+2021-05-03 10:59:50 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-03 10:59:50 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-03 11:00:03 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 11:00:23 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-03 11:00:23 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-03 11:00:23 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-03 11:00:23 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-03 11:00:41 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-03 11:00:46 INFO  ConnectionFactory:191 - Reimbursements Retrieved by user id
+2021-05-03 11:00:46 INFO  ConnectionFactory:134 - Updated Status
+2021-05-03 11:00:48 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-03 11:00:51 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-03 11:00:56 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-03 11:01:00 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 11:01:05 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:01:06 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-03 11:01:07 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-03 11:01:16 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 11:02:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:02:10 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-03 11:02:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:02:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:02:10 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:58:01 INFO  ConnectionFactory:28 - User has logged out
+2021-05-03 11:58:36 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-03 11:58:38 INFO  ConnectionFactory:26 - Past tickets viewed by User [userId=5, username=mantesh, password=password, firstName=Mantesh, lastName=Sandhu, email=Mantesh@gmail.com, role=EMPLOYEE]
+2021-05-03 11:58:38 INFO  ConnectionFactory:92 - Reimbursements Retrieved by user name
+2021-05-03 11:58:40 INFO  ConnectionFactory:28 - User has logged out
+2021-05-06 16:41:01 INFO  ConnectionFactory:28 - User has logged out
+2021-05-06 16:41:16 INFO  ConnectionFactory:33 - User logged in: mantesh
+2021-05-06 16:41:22 INFO  ConnectionFactory:28 - User has logged out
+2021-05-06 16:41:28 INFO  ConnectionFactory:33 - User logged in: admin
+2021-05-06 16:41:28 INFO  ConnectionFactory:22 - Getting all Reimbursements
+2021-05-06 16:41:28 INFO  ConnectionFactory:24 - Connection made to database
+2021-05-06 16:41:28 INFO  ConnectionFactory:44 - Reimbursements Retrieved
+2021-05-06 16:41:48 INFO  ConnectionFactory:66 - Reimbursements Retrieved by status
+2021-05-06 16:41:54 INFO  ConnectionFactory:28 - User has logged out
